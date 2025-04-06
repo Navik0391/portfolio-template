@@ -10,10 +10,8 @@ This template is a responsive, clean, and minimalist one-page website ideal for 
 Folder Structure
 ---------------------------
 /css           - Compiled Tailwind CSS stylesheet
-/js            - JavaScript for interactive components (if any)
+/js            - JavaScript for interactive components
 /images        - All images used in the template
-/fonts         - Custom fonts (if used)
-/documentation - Detailed instructions (optional)
 /index.html    - Main HTML file
 
 ---------------------------
