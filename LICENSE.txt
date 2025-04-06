@@ -1,0 +1,22 @@
+===========================
+LICENSE AGREEMENT
+===========================
+
+This HTML template is licensed for:
+- Personal use
+- Commercial use
+
+You may:
+- Use this template for your own website or a client project.
+- Modify the design and code as needed.
+
+You may NOT:
+- Redistribute or resell this template as-is or in a modified form.
+- Claim this template as your own work.
+- Use any assets (images/fonts) that require separate attribution or license, unless properly licensed.
+
+Images and fonts used in this template are either free for commercial use or replaced with placeholders.
+
+For full license details, please refer to TemplateMonster’s license agreement.
+
+Copyright © [Navik0391], 2025
